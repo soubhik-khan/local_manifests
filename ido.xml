@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+        <remote name="github" fetch="https://github.com/" />
+        <project name="redmi3-dev/android_vendor_xiaomi_ido" path="vendor/xiaomi/ido" remote="github" revision="cm-13.0" />
+        <project name="redmi3-dev/android_kernel_xiaomi_msm8916" path="kernel/xiaomi/msm8916" remote="github" revision="cm-13.0" />
+        <project name="axxx007xxxz/android_device_xiaomi_ido" path="device/xiaomi/ido" remote="github" revision="turbo" />
+</manifest>
