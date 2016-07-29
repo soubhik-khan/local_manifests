@@ -3,5 +3,5 @@
         <remote name="github" fetch="https://github.com/" />
         <project name="nehz/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="cm-12.1" />
         <project name="MiCode/Xiaomi_Kernel_OpenSource" path="kernel/xiaomi/msm8916" remote="github" revision="ido-l-oss" />
-        <project name="axxx007xxxz/android_device_xiaomi_ido-1" path="device/xiaomi/ido" remote="github" revision="pac-rom" />
+        <project name="axxx007xxxz/android_device_xiaomi_ido-1" path="device/xiaomi/ido" remote="github" revision="pac" />
 </manifest>
