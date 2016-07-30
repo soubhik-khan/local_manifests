@@ -2,7 +2,7 @@
 <manifest>
         <remote name="github" fetch="https://github.com/" />
         <project name="axxx007xxxz/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="pac" />
-        <project name="MiCode/Xiaomi_Kernel_OpenSource" path="kernel/xiaomi/msm8916" remote="github" revision="ido-l-oss" />
+        <project name="MiCode/Xiaomi_Kernel_OpenSource" path="kernel/xiaomi/ido" remote="github" revision="ido-l-oss" />
         <project name="axxx007xxxz/android_device_xiaomi_ido-1" path="device/xiaomi/ido" remote="github" revision="pac" />
 	<project name="android_device_qcom_common" path="device/qcom/common" remote="ss" revision="pac-5.1" />
 	<project name="android_hardware_qcom_fm" path="hardware/qcom/fm" remote="cm" revision="cm-12.1" />
