@@ -12,6 +12,7 @@
 	<project name="platform/hardware/qcom/keymaster" path="hardware/qcom/keymaster" remote="caf" revision="LA.BF.1.1.3_rb1.13" />
 	<project name="platform/hardware/qcom/media" path="hardware/qcom/media" remote="caf" revision="LA.BF.1.1.3_rb1.13" />
 	<project name="android_external_stlport" path="external/stlport" remote="aospa" revision="marshmallow-caf" />
+	<project name="CyanogenMod/android_external_bson" path="external/bson" remote="github" revision="cm-13.0" />
 	<project name="android_external_connectivity" path="external/connectivity" remote="aospa" revision="marshmallow-caf" />
 	<project name="android_packages_apps_FMRadio" path="packages/apps/FMRadio" remote="aospa" revision="marshmallow-caf" />
 	<project name="android_packages_apps_SnapdragonCamera" path="packages/apps/SnapdragonCamera" remote="aospa" revision="marshmallow-caf" />
