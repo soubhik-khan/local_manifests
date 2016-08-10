@@ -8,6 +8,7 @@
 	<project name="axxx007xxxz/android_device_motorola_lux" path="device/motorola/lux" remote="github" revision="aospa" />
 	<project name="android_hardware_qcom_audio" path="hardware/qcom/audio" remote="aospa" revision="marshmallow-caf-8916" />
 	<project name="android_hardware_qcom_display" path="hardware/qcom/display" remote="aospa" revision="marshmallow-caf-8916" />
+	<project name="CyanogenMod/android_vendor_qcom_opensource_dataservices" path="vendor/qcom/opensource/dataservices" remote="github" revision="cm-13.0" />
 	<project name="platform/hardware/qcom/keymaster" path="hardware/qcom/keymaster" remote="caf" revision="LA.BF.1.1.3_rb1.13" />
 	<project name="platform/hardware/qcom/media" path="hardware/qcom/media" remote="caf" revision="LA.BF.1.1.3_rb1.13" />
 	<project name="android_external_stlport" path="external/stlport" remote="aospa" revision="marshmallow-caf" />
